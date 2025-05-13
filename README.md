@@ -3,8 +3,9 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
-A comprehensive offline repository of prompt engineering techniques, templates, and best practices.
+A comprehensive collection of prompt engineering techniques, templates, and best practices.
 
+In the future, we will be saying "So you think you can prompt better than a 5th Grader?"
 ## 🚀 Introduction
 
 Welcome to the Master Prompt Engineering repository! This project aims to be your go-to resource for learning and applying effective prompt engineering techniques across various Large Language Models (LLMs).
@@ -52,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Created and maintained by WSC**
+**Created and maintained by Will @ WSC**
